@@ -26,11 +26,15 @@ https://buggydev1.github.io/Anime_TierMaker/#/
   * [Github](https://github.com/) - Version control
   * [React Beautiful DnD](https://react-dnd.github.io/react-dnd/docs/overview) -Drag and Drop libary
     
-   
+## API Use
+* [Jikan open-source API](https://jikan.moe/)
+* 
 ## Our Process
 * Watching my friend spend soo much time making a single tier list and having the users not know who were the character. 
+* 
 #### Site Features
-* The abilbty 
+*  Look for anime character and place them on the tile holder automaticly
+*  
 #### Wireframing:
 ![Tier Maker WireFrame](https://i.imgur.com/EFi9upo.png)
 
