@@ -1,71 +1,43 @@
 # Quicker TierMaker Anime: Edtion
-Endless Fight, a turn base boss run game where you play  as the cat-Man James and a Mage name Nia. 
-
-## Project Link
 
 
+## Description
+A way to quickly import images and anime information to make a Tier list.
 
+## Getting Start
+* Select "Other" from Nav Bar
+* Use the Search bar to search for a anime character.
+* Click on the image of the character you want.
+* Click and drag image to sort  
 ## Contributors
 * **Tyree Harper** 
-Cancel Changes
 
 ## Technologies Used
 * [Node.js](https://nodejs.org/en/) - Runtime environment
 * HTML5
 * CSS
-* Google Chrome https://www.google.com/chrome/ 
+* [Google Chrome] https://www.google.com/chrome/ 
+* [React] (https://reactjs.org/) Front-End Framework
 * Additional Tools: 
   * [Github](https://github.com/) - Version control
-  * [OpenGameArt](https://opengameart.org/) = For asserts
+  * [React Beautiful DnD](https://react-dnd.github.io/react-dnd/docs/overview) -Drag and Drop libary
     
    
 ## Our Process
-*I growed with a love go turn based RPG games and so I wanted to make My own.
-
-#### Game Features
-* Player has two heros to control.
-* Heros have a list of skills to pick from
-* Endless amount of bosses to fight.
-
-
+* Watching my friend spend soo much time making a single tier list and having the users not know who were the character. 
+#### Site Features
+* The abilbty 
 #### Wireframing:
-![wireframe](https://i.imgur.com/58jM6JP.pngg)
-
-
-
-
-#### Design Mockups:
-![homepage mockup](https://i.imgur.com/4r4Te9D.png)
+![Tier Maker WireFrame](https://i.imgur.com/EFi9upo.png)
 
 
 ## Challenges/Future Goals
-*Css
-*Fixing Heath/Mana Bars
-*Add more monster types
-*Add music
-*Add sound effects and animate the actions
-*Make the turn function more moduale.
+* Finsh drag and drop function
+* Add other media api 
+* Add Backend
+* full edit tools
+
 
 
 ## Special Thanks
 * The General Assembly SEIR-Erica instructional team
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
