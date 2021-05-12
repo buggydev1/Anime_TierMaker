@@ -1,4 +1,4 @@
-# Faster TierMaker Anime: Edition
+# Faster TierMaker: Anime Edition
 
 
 ## Description
